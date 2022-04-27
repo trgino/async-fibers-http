@@ -1,0 +1,14 @@
+{
+	"name": "trgino/async-fiber-http",
+	"version": "0.15",
+	"license": "MIT",
+	"type": "package",
+    "require": {
+		"php": ">=8.1"
+    },
+	"autoload": {
+        "psr-4": {
+            "FibersHttp\\": "src"
+        }
+    }
+}
